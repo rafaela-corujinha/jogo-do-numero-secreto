@@ -1,6 +1,6 @@
 Jogo Do Número secreto
 <h1 align="center"> Jogo Do Número secreto </h1>
-![descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)
+![https://pt.vecteezy.com/png/37846274-desenho-animado-foguete-enviar-foguete-foguete-enviar](url da imagem gerado pelo serviço de hospedagem ou GitHub)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
@@ -24,12 +24,7 @@ Jogo Do Número secreto
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
-# :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
 - **Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
 
 # 🛠️ Abrir e rodar o projeto
