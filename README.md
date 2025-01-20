@@ -2,8 +2,10 @@ Jogo do número secreto
 <h1 align="center"> Jogo Do Número Secreto </h1>
 
 
-Licença: Instituto de Tecnologia de Massachusetts (MIT);
-Versão da ferramenta de gerenciamento de dependências, Maven: versão 4.0.1;
+Licença: 
+Instituto de Tecnologia de Massachusetts (MIT);
+Versão da ferramenta de gerenciamento de dependências, 
+Maven: versão 4.0.1;
 Data da última versão do projeto: agosto.
 
 
@@ -16,7 +18,7 @@ Data da última versão do projeto: agosto.
 </h4>
 # Autores
 
-https://github.com/rafaela-corujinha
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/195609939?v=4" width=115><br><sub>Rafaela Santos Diniz</sub>](https://github.com/rafaela-corujinha)
 
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
