@@ -1,7 +1,6 @@
 Jogo do número secreto
 <h1 align="center"> Jogo Do Número Secreto </h1>
-![gato github](https://www.godela.com.br/noticias/imgs/gitgithub.jpeg)
-![i-10](https://github.com/user-attachments/assets/8d024b44-597c-41cc-88cc-87b549841c3f)
+(https://www.godela.com.br/noticias/imgs/gitgithub.jpeg)
 Licença: Instituto de Tecnologia de Massachusetts (MIT);
 Versão da ferramenta de gerenciamento de dependências, Maven: versão 4.0.1;
 Data da última versão do projeto: agosto.
